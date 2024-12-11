@@ -1,0 +1,4 @@
+# use "pip install -r /path/to/requirements.txt" to install modules
+fake_useragent==1.5.1
+Requests==2.32.3
+selenium==4.27.1
